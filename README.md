@@ -1,10 +1,10 @@
 ## Hi, I'm Youssef, you can call me Joe 👋
 
-👨‍💻 Junior Software Engineer intrested in Backend Web Development
-🌱 I’m currently learning about Backend Development
-🧑‍🎓 Currently pursuing a bachelor's degree in Computer Science
+👨‍💻 Junior Software Engineer intrested in Backend Web Development<br/>
+🌱 I’m currently learning about Backend Development<br/>
+🧑‍🎓 Currently pursuing a bachelor's degree in Computer Science<br/><br/>
 
-[![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev1joe&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev1joe&show_icon=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dev1joe/dev1joe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
