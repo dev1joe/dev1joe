@@ -10,7 +10,7 @@
 [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev1joe&show_icons=true&bg_color=35,000000,222222,4A4A4A,737373,EDEDED&text_color=ffffff&title_color=D0FF34&icon_color=D0FF34)](https://github.com/anuraghazra/github-readme-stats)<br/>
 -->
 
-![](https://nirzak-streak-stats.vercel.app/?user=dev1joe&&hide_border=false&theme=dark)
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=dev1joe&&hide_border=false&theme=dark) -->
 
 
 # 💻 Tech Stack
