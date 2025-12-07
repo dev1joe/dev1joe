@@ -13,7 +13,7 @@ I'm a computer science student and web developer with hands-on experience in PHP
 
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=dev1joe&&hide_border=false&theme=dark) -->
 
-# 💻 Tech Stack
+# 💻 Tools & Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ### Node.js
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
