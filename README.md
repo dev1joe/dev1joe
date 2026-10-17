@@ -1,6 +1,6 @@
 ## Hi, I'm Youssef, you can call me Joe 👋
 
-I'm a computer science student and web developer with hands-on experience in PHP, JavaScript, Python, SQL, and Docker. I recently completed a web development training program at the National Telecommunication Institute (NTI), where I deepened my skills through real-world projects. I've also completed the AWS Cloud Foundations course and the McKinsey Forward Program, which enhanced both my technical and professional capabilities. I value clean, maintainable code and thrive in collaborative environments. I'm eager to grow professionally and contribute to meaningful, impactful projects.
+I'm a computer science fresh grad and a Full-Stack Software Engineer with hands-on experience in PHP, JavaScript, Python, SQL, and Docker. I recently completed a web development training program at the National Telecommunication Institute (NTI), where I deepened my skills through real-world projects. I've also completed the AWS Cloud Foundations course and the McKinsey Forward Program, which enhanced both my technical and professional capabilities. I value clean, maintainable code and thrive in collaborative environments. I'm eager to grow professionally and contribute to meaningful, impactful projects.
 <br/>
 
 <!--
